@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <diff>
+
 	<!-- 3 Mercury x Menelaus Oasis 
 	<add sel="//macros/macro[@name='Cluster_106_Sector001_macro']/connections">
 		<connection name="zones_iHaku_Cluster_106_Sector001_connection" ref="zones">
@@ -39,4 +41,5 @@
 			<macro ref="zones_iHaku_Cluster_116_Sector001_macro" connection="sector"/>
 		</connection>
 	</add>
+	
 </diff>
