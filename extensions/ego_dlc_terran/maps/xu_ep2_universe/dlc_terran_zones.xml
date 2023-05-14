@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
-	<!-- 3 Mercury x Menelaus Oasis -->
+	<!-- 3 Mercury x Menelaus Oasis 
 	<add sel="//macros">
 		<macro name="zones_iHaku_Cluster_106_Sector001_macro" class="zone">
 			<component ref="standardzone"/>
@@ -14,7 +14,7 @@
 				</connection>
 			</connections>
 		</macro>
-	</add>
+	</add>-->
 
 	<!-- 4 Segaris x Cardnial's Redress -->
 	<add sel="//macros">

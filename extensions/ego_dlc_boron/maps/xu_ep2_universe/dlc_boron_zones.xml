@@ -49,7 +49,7 @@
 		</macro>
 	</add>
 	
-	<!-- 3 Menelaus Oasis x Mercury -->
+	<!-- 3 Menelaus Oasis x Mercury 
 	<add sel="//macros">
 		<macro name="zones_iHaku_Cluster_609_Sector001_macro" class="zone">
 			<component ref="standardzone"/>
@@ -63,7 +63,7 @@
 				</connection>
 			</connections>
 		</macro>
-	</add>
+	</add>-->
 
 	<!-- 6 Ocean of Fantasy x Asteroid Belt -->
 	<add sel="//macros">
